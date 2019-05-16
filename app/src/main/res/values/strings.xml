@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo Database CRUD</string>
+    <string name="tvdata">Enter data to be inserted here:</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnRetrieve">Retrieve</string>
+    <string name="tvid">ID:</string>
+    <string name="tvContent">Content:</string>
+    <string name="btnupdate">Update</string>
+    <string name="btndelete">Delete</string>
+</resources>
